@@ -2,6 +2,6 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: info/prepare.md
+root: intro.md
 #chapters:
-#- file: info/prepare.md
+- file: info/prepare.md
