@@ -10,6 +10,7 @@ Long story short: Below you will find a list with resources that you can freely 
 
 ```{note}
 We are phasing out R specific support/material creation throuthgout 2022. If you work in R (RStudio), you are welcome to submit assignments in R. We will direct you to resources for R.
+```
 
 ## Platforms to get familiar with
 - Jupyter (Python) - [local install with anaconda](https://www.anaconda.com/products/distribution) | [Colab](https://colab.research.google.com/) | [UCloud](https://cloud.sdu.dk/) - Install, play around 💾
