@@ -11,7 +11,7 @@ Long story short: Below you will find a list with resources that you can freely 
 ## Platforms to get familiar with
 - Jupyter (Python) - [local install with anaconda](https://www.anaconda.com/products/distribution), [Colab](https://colab.research.google.com/), [UCloud](https://cloud.sdu.dk/) - Install, play around 💾
 - [GitHub](https://github.com/) - Create an account and follow 101 tutorials 🧑‍💻
-- [Kaggle](kaggle.com) - 🧗
+- __[Kaggle](kaggle.com)__ - 🧗 Create an account, check out projects and competitions.
 
 ## Techniques and skills
 
@@ -20,11 +20,11 @@ Long story short: Below you will find a list with resources that you can freely 
     Start with 🛠 toolkit (Notebooks to Pandas - no need to look into PyTorch for now). Explore then the 🔥 Machine Learning part - here, only linear and logistic regression as well as data quiality.
 
 - [Youtube: Python Engineer](https://www.youtube.com/c/PythonEngineer)
+    Are you really giving us a Youtube Channel here? Well, yes. Modern research communication, especially in computational disciplines is fast and open. Many engineers and researchers put out excellent contetent - sometimes of higher quality thatn academic publications, especially those that take many years to produce. This channel covers various topic in Data Science and software development more generally. Consider following the advanced python playlist. If you are very motivated, also the ML from scratch playlist. 
 
 
-
-## Build your first project?
-
+## Build your first project? (think about it perhaps)
+- Think about a first project that you could work on during september.
 
 ```{note}
 We are phasing out R specific support/material creation throuthgout 2022. If you work in R (RStudio), you are welcome to submit assignments in R. We will direct you to resources for R.
