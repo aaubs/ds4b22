@@ -1,4 +1,4 @@
-# Welcome to Business Data Science
+# Can't wait to get started? 🤓
 
 We are looking forward to meeting the first cohort 😎 of Business Data Science as well as the Social Data Science students in September at AAUBS. 
 Until then, here we put together a few resources that you can already now use to get started with Data Science and Python.
