@@ -15,7 +15,7 @@ We are phasing out R specific support/material creation throuthgout 2022. If you
 ## Platforms to get familiar with
 - Jupyter (Python) - [local install with anaconda](https://www.anaconda.com/products/distribution) | [Colab](https://colab.research.google.com/) | [UCloud](https://cloud.sdu.dk/) - Install, play around 💾
 - [GitHub](https://github.com/) - Create an account and follow 101 tutorials 🧑‍💻
-- [Kaggle](kaggle.com) - 🧗 Create an account, check out projects and competitions.
+- __[Kaggle](https://www.kaggle.com/)__ - 🧗 Create an account, check out projects and competitions.
 
 ## Techniques and skills
 
@@ -30,6 +30,6 @@ We are phasing out R specific support/material creation throuthgout 2022. If you
 ## Build your first project? (think about it perhaps)
 - Think about a first project that you could work on during september. This could be an interesting dataset or a fun application. Up to you, as long as it's ML.
 
-:::{admonition} Datacamp
-:class: tip
+```{tip} Datacamp
 For the past 4 years we have been supported by [Datacamp](https://www.datacamp.com/) who provided us with free academic accounts for all students at SDS. We are in the process of applying for 2022. As soon as these accounts are available (probably mid August), we will contact you with details on access.
+```
