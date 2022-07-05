@@ -4,6 +4,5 @@
 format: jb-book
 root: index
 
-#chapters:
-
+chapters:
 - file: info/prepare.md
