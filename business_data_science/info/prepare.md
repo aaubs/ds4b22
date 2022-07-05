@@ -14,9 +14,12 @@ Long story short: Below you will find a list with resources that you can freely 
 - [Kaggle](kaggle.com) - 🧗
 
 ## Techniques and skills
+
 - [madewithml](https://madewithml.com/)
     A good place to start is [madewithml](https://madewithml.com/). Built by a former Apple ML Engineer, it brings together most of the topics relevant for Data Science, Machine Learning and MLOps (things we will cover on the 2. semester).
     Start with 🛠 toolkit (Notebooks to Pandas - no need to look into PyTorch for now). Explore then the 🔥 Machine Learning part - here, only linear and logistic regression as well as data quiality.
+
+- [Youtube: Python Engineer](https://www.youtube.com/c/PythonEngineer)
 
 
 
